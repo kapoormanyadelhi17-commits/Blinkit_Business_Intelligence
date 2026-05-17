@@ -42,6 +42,3 @@ products and inventory for March 2023 to November 2024.
 Manya Kapoor
 MA Economics, Delhi Technological University
 
-## Author
-Manya Kapoor
-MA Economics, Delhi Technological University
